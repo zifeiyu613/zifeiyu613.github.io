@@ -3,3 +3,8 @@ resources
 .hugo_build.lock
 *.iml
 *.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
