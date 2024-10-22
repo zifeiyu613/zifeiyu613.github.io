@@ -2,12 +2,9 @@
 title: "Enable TCP port 2375 for external connection to Docker"
 description: 在修改Docker配置hosts时，发现服务启动失败：Conflict between default -H fd:// systemd config and daemon.json hosts config
 date: 2024-10-22T17:19:16+08:00
-image: cover.jpg
-math: 
-license: 
+image: img.png
 hidden: false
 comments: true
-draft: true
 tags:
   - Docker
 ---
