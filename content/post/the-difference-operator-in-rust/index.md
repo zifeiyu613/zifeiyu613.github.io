@@ -2,7 +2,7 @@
 title: "Rust, 操作符:: 和 . 有什么区别"
 description: "在Rust中,:: 和 . 是两种操作符，分别用于路径导航和成员访问，它们有不同的用途和语义。"
 date: 2024-12-04T19:00:16+08:00
-image: img.png
+image: img.jpg
 hidden: false
 comments: true
 tags:
